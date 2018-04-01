@@ -25,4 +25,4 @@ fred.last_name = "Rogers"
 
 kayla = Student.new
 kayla.first_name = "Kay"
-kayla.last_name = "La"
+kayla.last_name = "la"
