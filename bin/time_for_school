@@ -26,3 +26,6 @@ fred.last_name = "Rogers"
 kayla = Student.new
 kayla.first_name = "Kay"
 kayla.last_name = "la"
+
+kayla.learn(fred.teach)
+puts "Kayla just learned this important knowledge: '#{kayla.knowledge.first}' from Mr. Rogers"
